@@ -1,0 +1,13 @@
+body{
+    font-size: 20px;
+    width: 320px;
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: fixed;
+    background-color: rgb(222, 231, 221);
+    color: rgb(24, 79, 62);
+}
+

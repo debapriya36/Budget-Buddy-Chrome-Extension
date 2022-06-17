@@ -1,0 +1,9 @@
+body{
+    width: 320px;
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(208, 228, 235);
+    color: rgb(81, 32, 226);
+    font-size: 15px;
+}
