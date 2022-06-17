@@ -1,6 +1,6 @@
 
 # Budget-Buddy-A chrome extension
-This extension helps you to keep track of your speanding and managing by setting cost limit!
+This extension helps you to keep track of your spending and managing by setting cost limit!
 
 ## Badges
 
