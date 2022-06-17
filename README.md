@@ -19,10 +19,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 * Jquery
 
 
-
-![Logo](logo128.png)
-
-
 ## Screenshot
  
 ![App Screenshot](ss1.png)
